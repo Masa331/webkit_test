@@ -1,0 +1,10 @@
+.bundle
+log/*log
+*.swp
+tmp/*
+config/database.yml
+config/secrets.yml
+db/*.sqlite3
+coverage*
+.autotest
+.sass-cache/
